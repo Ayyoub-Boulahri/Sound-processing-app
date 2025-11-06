@@ -108,5 +108,5 @@ This project is licensed under the [MIT License](LICENSE) – see the `LICENSE` 
 
 ## Contact  
 For any questions, suggestions or bug reports:  
-**Ayyoub Boulahri** – GitHub: [https://github.com/Ayyoub‑Boulahri](https://github.com/Ayyoub‑Boulahri) – Email: ayyoubboulahri@gmail.com  
+**Ayyoub Boulahri** – GitHub: [https://github.com/Ayyoub‑Boulahri](https://github.com/Ayyoub-Boulahri) – Email: ayyoubboulahri@gmail.com  
 **Khalaf Drhourhi** – khalaf.drhourhi@gmail.com
