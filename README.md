@@ -29,8 +29,8 @@ It aims to bridge the gap between intuitive UI and advanced signal‑processing 
 - Undo/Redo history for processing operations.
 
 ## Collaborators  
-- **Ayyoub Boulahri** – Backend, signal processing algorithms, data export functionality.  
-- **Khalaf Drhourhi** – Frontend UI/UX, real‑time visualisations, user experience design.
+- **Ayyoub Boulahri** 
+- **Khalaf Drhourhi** 
 
 ## Technology Stack  
 - Frontend: [Spec‑if‑framework, e.g., React, Vue, or Electron]  
