@@ -1,0 +1,52 @@
+# -------- Main Colors --------
+*background: #2c3e50
+*foreground: #ecf0f1
+
+# -------- Frames --------
+*Frame.background: #2c3e50
+
+*LabelFrame.background: #2c3e50
+*LabelFrame.foreground: #ecf0f1
+
+# -------- Labels --------
+*Label.background: #2c3e50
+*Label.foreground: #ecf0f1
+
+# -------- Buttons --------
+*Button.font: Arial 10 bold
+*Button.relief: flat
+*Button.background: #2980b9
+*Button.foreground: white
+*Button.activeBackground: #1f6391
+
+# Record button
+*record_button.background: #e74c3c
+*record_button.foreground: white
+*record_button.activeBackground: #c0392b
+
+# Play button
+*play_button.background: #27ae60
+*play_button.foreground: white
+*play_button.activeBackground: #1e8449
+
+# Stop button
+*stop_button.background: #c0392b
+*stop_button.foreground: white
+*stop_button.activeBackground: #922b21
+
+# Save button
+*save_button.background: #27ae60
+*save_button.foreground: white
+*save_button.activeBackground: #1e8449
+
+# Library button
+*lib_button.background: #2980b9
+*lib_button.foreground: white
+*lib_button.activeBackground: #1f6391
+
+# -------- Canvas --------
+*Canvas.background: #34495e
+
+# -------- Scale (Sliders) --------
+*Scale.background: #2c3e50
+*Scale.foreground: #ecf0f1
